@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.contenedorBody{
+  background-image: url('./imagenes/body_flores.jpg');
+  width: 100%;
+  min-height: 600px;
+  margin-top: 0px;
+}
+
+.contenedorDiv{
+  background-color: rgb(209, 212, 241);
+  width: 300px;
+  height: 200px;
+  margin: auto ;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border-radius: 5%;
+  display: block;
+}
+
+.contenedorGrupo{
+  display: inline-block;
+  margin-top: 20px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
